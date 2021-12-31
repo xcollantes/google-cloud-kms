@@ -1,0 +1,3 @@
+This file is the secret file which should be encrypted.  
+
+
